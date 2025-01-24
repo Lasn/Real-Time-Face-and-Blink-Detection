@@ -72,7 +72,7 @@ python blink_detection.py
 
 - [MediaPipe FaceMesh](https://google.github.io/mediapipe/solutions/face_mesh)
 - [OpenCV DNN Module](https://docs.opencv.org/master/d6/d0f/group__dnn.html)
-- [Eye Aspect Ratio (EAR)]([https://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC9044337/))
+- [Eye Aspect Ratio (EAR)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9044337/)
 
 
 
